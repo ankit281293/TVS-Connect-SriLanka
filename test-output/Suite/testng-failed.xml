@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="utilities.Listeners"/>
+  </listeners>
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="testCases.SriLanka">
+        <methods>
+          <include name="SelastParkLocation"/>
+          <include name="applicationLogin"/>
+          <include name="Sesettings"/>
+          <include name="resettings"/>
+          <include name="reridedetails"/>
+          <include name="verifyOtp"/>
+          <include name="SemyRides"/>
+          <include name="signupDetails"/>
+          <include name="lastparkedlocation"/>
+          <include name="addSEVehicle"/>
+          <include name="Seknowyourbike"/>
+          <include name="remyrides"/>
+          <include name="SerideDetails"/>
+          <include name="reknowyourbike"/>
+          <include name="howtovideos"/>
+          <include name="addiQube"/>
+          <include name="SehowToVideos"/>
+          <include name="configureappium"/>
+          <include name="addReBike"/>
+        </methods>
+      </class> <!-- testCases.SriLanka -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

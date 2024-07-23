@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="18" passed="18" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-11T17:56:20 IST" name="Suite" finished-at="2024-07-11T17:59:35 IST" duration-ms="194140">
+    <groups>
+    </groups>
+    <test started-at="2024-07-11T17:56:20 IST" name="Test" finished-at="2024-07-11T17:59:35 IST" duration-ms="194140">
+      <class name="testCases.SriLanka">
+        <test-method is-config="true" signature="configureappium()[pri:0, instance:testCases.SriLanka@8dbfffb]" started-at="2024-07-11T17:56:20 IST" name="configureappium" finished-at="2024-07-11T17:57:07 IST" duration-ms="46298" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configureappium -->
+        <test-method signature="applicationLogin()[pri:1, instance:testCases.SriLanka@8dbfffb]" started-at="2024-07-11T17:57:07 IST" name="applicationLogin" finished-at="2024-07-11T17:57:28 IST" duration-ms="21491" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- applicationLogin -->
+        <test-method signature="signupDetails()[pri:2, instance:testCases.SriLanka@8dbfffb]" started-at="2024-07-11T17:57:28 IST" name="signupDetails" finished-at="2024-07-11T17:57:34 IST" duration-ms="5623" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signupDetails -->
+        <test-method signature="verifyOtp()[pri:3, instance:testCases.SriLanka@8dbfffb]" started-at="2024-07-11T17:57:34 IST" name="verifyOtp" finished-at="2024-07-11T17:57:43 IST" duration-ms="8849" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyOtp -->
+        <test-method signature="addSEVehicle()[pri:4, instance:testCases.SriLanka@8dbfffb]" started-at="2024-07-11T17:57:43 IST" name="addSEVehicle" finished-at="2024-07-11T17:58:11 IST" duration-ms="28604" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addSEVehicle -->
+        <test-method signature="SerideDetails()[pri:5, instance:testCases.SriLanka@8dbfffb]" started-at="2024-07-11T17:58:11 IST" name="SerideDetails" finished-at="2024-07-11T17:58:19 IST" duration-ms="7590" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SerideDetails -->
+        <test-method signature="SemyRides()[pri:6, instance:testCases.SriLanka@8dbfffb]" started-at="2024-07-11T17:58:19 IST" name="SemyRides" finished-at="2024-07-11T17:58:21 IST" duration-ms="2390" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SemyRides -->
+        <test-method signature="Seknowyourbike()[pri:7, instance:testCases.SriLanka@8dbfffb]" started-at="2024-07-11T17:58:21 IST" name="Seknowyourbike" finished-at="2024-07-11T17:58:28 IST" duration-ms="6860" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Seknowyourbike -->
+        <test-method signature="Sesettings()[pri:8, instance:testCases.SriLanka@8dbfffb]" started-at="2024-07-11T17:58:28 IST" name="Sesettings" finished-at="2024-07-11T17:58:35 IST" duration-ms="7196" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Sesettings -->
+        <test-method signature="SelastParkLocation()[pri:9, instance:testCases.SriLanka@8dbfffb]" started-at="2024-07-11T17:58:35 IST" name="SelastParkLocation" finished-at="2024-07-11T17:58:41 IST" duration-ms="5102" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SelastParkLocation -->
+        <test-method signature="SehowToVideos()[pri:10, instance:testCases.SriLanka@8dbfffb]" started-at="2024-07-11T17:58:41 IST" name="SehowToVideos" finished-at="2024-07-11T17:58:44 IST" duration-ms="2999" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SehowToVideos -->
+        <test-method signature="addReBike()[pri:11, instance:testCases.SriLanka@8dbfffb]" started-at="2024-07-11T17:58:44 IST" name="addReBike" finished-at="2024-07-11T17:58:51 IST" duration-ms="7333" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addReBike -->
+        <test-method signature="reridedetails()[pri:12, instance:testCases.SriLanka@8dbfffb]" started-at="2024-07-11T17:58:51 IST" name="reridedetails" finished-at="2024-07-11T17:59:03 IST" duration-ms="12030" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reridedetails -->
+        <test-method signature="remyrides()[pri:13, instance:testCases.SriLanka@8dbfffb]" started-at="2024-07-11T17:59:03 IST" name="remyrides" finished-at="2024-07-11T17:59:05 IST" duration-ms="2451" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- remyrides -->
+        <test-method signature="reknowyourbike()[pri:14, instance:testCases.SriLanka@8dbfffb]" started-at="2024-07-11T17:59:05 IST" name="reknowyourbike" finished-at="2024-07-11T17:59:15 IST" duration-ms="9212" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reknowyourbike -->
+        <test-method signature="resettings()[pri:15, instance:testCases.SriLanka@8dbfffb]" started-at="2024-07-11T17:59:15 IST" name="resettings" finished-at="2024-07-11T17:59:22 IST" duration-ms="7707" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- resettings -->
+        <test-method signature="lastparkedlocation()[pri:16, instance:testCases.SriLanka@8dbfffb]" started-at="2024-07-11T17:59:22 IST" name="lastparkedlocation" finished-at="2024-07-11T17:59:27 IST" duration-ms="4327" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lastparkedlocation -->
+        <test-method signature="howtovideos()[pri:17, instance:testCases.SriLanka@8dbfffb]" started-at="2024-07-11T17:59:27 IST" name="howtovideos" finished-at="2024-07-11T17:59:28 IST" duration-ms="1623" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- howtovideos -->
+        <test-method signature="addiQube()[pri:18, instance:testCases.SriLanka@8dbfffb]" started-at="2024-07-11T17:59:28 IST" name="addiQube" finished-at="2024-07-11T17:59:35 IST" duration-ms="6307" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addiQube -->
+      </class> <!-- testCases.SriLanka -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
